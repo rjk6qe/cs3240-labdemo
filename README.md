@@ -1,3 +1,3 @@
 # cs3240-labdemo
 
-Changing.
+Changing README for Activity 2.
